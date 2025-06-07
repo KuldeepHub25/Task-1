@@ -1,0 +1,1 @@
+Performed comprehensive data cleaning on the dataset by identifying and handling missing values, removing duplicates, standardizing text entries and date formats, renaming columns for clarity, and correcting data types for consistency.
